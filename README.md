@@ -1,6 +1,7 @@
 👾Welcome To ℤℓℱℕ Profile!👾
 ======
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlfn&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlfn&layout=compact&theme=radical)](https://github.com/metleeha)
 ------
 🛠My Tech Stack🛠
 ------
