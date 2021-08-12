@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=ZLFN%20Profile&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=100&section=header&text=ZLFN%20Profile&fontSize=90)
 ======
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlfn&show_icons=true&theme=radical) 
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=zlfn)](https://solved.ac/zlfn)
 ------
 🛠My Tech Stack🛠
 ------
