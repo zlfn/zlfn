@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=ZLFN%20Profile&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=ZLFN%20Profile&fontSize=80)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlfn&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlfn&layout=&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ------
