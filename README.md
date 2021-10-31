@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Rust-D1AB66?style=flat-square&logo=rust&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Rust-D1AB66?style=flat-square&logo=rust&logoColor=white"/></a><br>
 https://zlfn.blogspot.com
 ------
 ☎Connect To Me :D 
