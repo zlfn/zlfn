@@ -1361,7 +1361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ldesgoui/discord_game_sdk</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust bindings for the Discord Game SDK</div>
@@ -1714,7 +1714,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Feb 2022, 20:12:13 (timezone Asia/Seoul) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 24 Feb 2022, 21:23:33 (timezone Asia/Seoul) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
