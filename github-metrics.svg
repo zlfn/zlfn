@@ -1339,7 +1339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KDE/krita</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.</div>
@@ -1682,7 +1682,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jun 2022, 03:17:24 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 6 Jun 2022, 04:12:30 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
