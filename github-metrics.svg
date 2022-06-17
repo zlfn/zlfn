@@ -1441,7 +1441,7 @@
                                     </svg>
                                     <div class="content">
                                         Released
-                                        <span class="bold">Krita Next</span>
+                                        <span class="bold">Krita Plus</span>
                                         of
                                         <span class="repo">zlfn/krita-aur</span>
                                     </div>
@@ -1457,7 +1457,7 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v5.2.0.prealpha.r59.gdf04d5ace6</span>
+                                        <span class="code">v5.1.0.prealpha.r2174.g82766ef025</span>
                                         in
                                         <span class="repo">zlfn/krita-aur</span>
                                     </div>
@@ -1670,7 +1670,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jun 2022, 01:22:02 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 18 Jun 2022, 02:17:15 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
