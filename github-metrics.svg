@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1538" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1435" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            308 Commits
+                            312 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1480,13 +1480,13 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">zlfn/Sovereignty</span>
+                                        <span class="repo">Iroom-gbs/Sovereignty</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fa4078c</div>
+                                        <div class="sha">#ffaeeef</div>
                                         <div class="message">Update README.md</div>
                                     </div>
                                 </div>
@@ -1499,49 +1499,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">zlfn/Sovereignty</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Iroom-gbs/Sovereignty</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ea8fadf</div>
-                                        <div class="message">Merge pull request #8 from dayo05/master
-
-Add level up down gui</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99140ae</div>
-                                        <div class="message">Add level up down gui</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c5f9fc</div>
-                                        <div class="message">Merge pull request #7 from dayo05/master
-
-Add method does calculation of left point in team.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c69612</div>
-                                        <div class="message">Add method does calculation of left point in team.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bee55cf</div>
-                                        <div class="message">Merge pull request #6 from zlfn/master
-
-Fix ReadMe</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4fca9d1</div>
-                                        <div class="message">Merge pull request #5 from zlfn/master
-
-GUI</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c310ea1</div>
-                                        <div class="message">Merge pull request #4 from zlfn/master
-
-GUI 기초 작업</div>
+                                        <div class="sha">#8a48cd2</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -1752,7 +1718,7 @@ GUI 기초 작업</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Jun 2022, 00:46:46 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 30 Jun 2022, 01:40:58 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
