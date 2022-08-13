@@ -1447,7 +1447,7 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">1.0</span>
+                                        <span class="code">4.1</span>
                                         in
                                         <span class="repo">zlfn/Rstat</span>
                                     </div>
@@ -1675,7 +1675,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Aug 2022, 02:15:17 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 14 Aug 2022, 03:17:34 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
