@@ -1392,7 +1392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kiwiyou/basm-rs</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust 코드를 BOJ에 제출 가능한 다른 언어로 변환합니다.</div>
@@ -1722,7 +1722,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Aug 2022, 19:17:02 (timezone Asia/Seoul) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 28 Aug 2022, 20:12:50 (timezone Asia/Seoul) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
