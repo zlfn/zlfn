@@ -70,14 +70,14 @@
 ### 🕸️ Web 🕸️
 
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=torpedo&theme=github_dark"/>
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=torpedo&theme=dracula"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=torpedo">
 </picture>](https://github.com/zlfn/torpedo)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=haedong-scoreboard&theme=github_dark"/>
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=haedong-scoreboard&theme=dracula"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=haedong-scoreboard">](https://github.com/zlfn/haedong-scoreboard)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=iroom-gbs&repo=gbswiki&theme=github_dark"/>
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=iroom-gbs&repo=gbswiki&theme=dracula"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=iroom-gbs&repo=gbswiki">](https://github.com/iroom-gbs/gbswiki)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=escapegbs&theme=github_dark"/>
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=escapegbs&theme=dracula"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=escapegbs">](https://github.com/zlfn/escapegbs)
 
 
