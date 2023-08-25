@@ -107,8 +107,8 @@
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=Razerblade2020-hackintosh&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=razerblade2020-hackintosh">](https://github.com/zlfn/razerblade2020-hackintosh)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=krita-aur&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=krita-aur">](https://github.com/zlfn/krita-aur)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=circuit&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=circuit">](https://github.com/zlfn/circuit)
 
 
 
