@@ -22,7 +22,7 @@
 <div align="center">
 
 ### Used in Project
-##### Language
+##### 📜 Language 📜
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white&"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&"/>
@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=javascript&logoColor=white&"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white&"/>
 
-##### Library & Framework
+##### 📚 Library & Framework 📚
 <img src="https://img.shields.io/badge/React.js-73c4f3?style=flat-square&logo=react&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&"/>
@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white&"/>
 <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white&"/>
 
-##### Environment
+##### 💚 Environment 💚
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Rocky Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white&"/>
@@ -59,7 +59,46 @@
 <img src="https://img.shields.io/badge/Jetbrains IDEs-000000?style=flat-square&logo=jetbrains&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white&"/>
-
-
 </div>
+
+---
+
+<div align="center">
+  
+# Projects
+  
+### Web
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=torpedo)](https://github.com/zlfn/torpedo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=haedong-scoreboard)](https://github.com/zlfn/haedong-scoreboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iroom-gbs&repo=gbswiki)](https://github.com/iroom-gbs/gbswiki)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=EscapeGBS)](https://github.com/zlfn/EscapeGBS)
+
+
+### Minecraft
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iroom-gbs&repo=tritone)](https://github.com/iroom-gbs/tritone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rukimc&repo=hellomessage)](https://github.com/rukimc/hellomessage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iroom-gbs&repo=sovereignty)](https://github.com/iroom-gbs/sovereignty)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=fantasticwild)](https://github.com/zlfn/fantasticwild)
+
+### Study
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=convexgl)](https://github.com/zlfn/convexgl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=benford)](https://github.com/zlfn/benford)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=boj2cf)](https://github.com/zlfn/boj2cf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=rstat)](https://github.com/zlfn/rstat)
+
+
+### Wild Goose Chase
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=Razerblade2020-Hackintosh)](https://github.com/zlfn/Razerblade2020-Hackintosh)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=krita-aur)](https://github.com/zlfn/krita-aur)
+
+
+
+
+
+
+
 
