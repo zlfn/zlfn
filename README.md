@@ -69,32 +69,46 @@
   
 ### Web
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=torpedo)](https://github.com/zlfn/torpedo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=haedong-scoreboard)](https://github.com/zlfn/haedong-scoreboard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iroom-gbs&repo=gbswiki)](https://github.com/iroom-gbs/gbswiki)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=EscapeGBS)](https://github.com/zlfn/EscapeGBS)
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=torpedo&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=torpedo">
+</picture>](https://github.com/zlfn/torpedo)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=haedong-scoreboard&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=haedong-scoreboard">](https://github.com/zlfn/haedong-scoreboard)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=iroom-gbs&repo=gbswiki&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=iroom-gbs&repo=gbswiki">](https://github.com/iroom-gbs/gbswiki)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=escapegbs&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=escapegbs">](https://github.com/zlfn/escapegbs)
 
 
 ### Minecraft
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iroom-gbs&repo=tritone)](https://github.com/iroom-gbs/tritone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rukimc&repo=hellomessage)](https://github.com/rukimc/hellomessage)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iroom-gbs&repo=sovereignty)](https://github.com/iroom-gbs/sovereignty)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=fantasticwild)](https://github.com/zlfn/fantasticwild)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=iroom-gbs&repo=tritone&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=iroom-gbs&repo=tritone">](https://github.com/iroom-gbs/tritone)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=rukimc&repo=hellomessage&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=rukimc&repo=hellomessage">](https://github.com/rukimc/hellomessage)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=iroom-gbs&repo=sovereignty&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=iroom-gbs&repo=sovereignty">](https://github.com/iroom-gbs/sovereignty)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=fantasticwild&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=fantasticwild">](https://github.com/zlfn/fantasticwild)
 
 ### Study
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=convexgl)](https://github.com/zlfn/convexgl)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=benford)](https://github.com/zlfn/benford)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=boj2cf)](https://github.com/zlfn/boj2cf)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=rstat)](https://github.com/zlfn/rstat)
-
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=convexgl&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=convexgl">](https://github.com/zlfn/convexgl)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=benford&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=benford">](https://github.com/zlfn/benford)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=boj2cf&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=boj2cf">](https://github.com/zlfn/boj2cf)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=rstat&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=rstat">](https://github.com/zlfn/rstat)
 
 ### Wild Goose Chase
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=Razerblade2020-Hackintosh)](https://github.com/zlfn/Razerblade2020-Hackintosh)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlfn&repo=krita-aur)](https://github.com/zlfn/krita-aur)
-
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=Razerblade2020-hackintosh&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=razerblade2020-hackintosh">](https://github.com/zlfn/razerblade2020-hackintosh)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=krita-aur&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=krita-aur">](https://github.com/zlfn/krita-aur)
 
 
 
