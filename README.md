@@ -65,9 +65,9 @@
 
 <div align="center">
   
-# Projects
+# 🏗️ Projects 🏗️
   
-### Web
+### 🕸️ Web 🕸️
 
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=torpedo&theme=github_dark"/>
@@ -81,8 +81,8 @@
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=escapegbs">](https://github.com/zlfn/escapegbs)
 
 
-### Minecraft
-
+### 🧱 Minecraft 🧱
+ 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=iroom-gbs&repo=tritone&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=iroom-gbs&repo=tritone">](https://github.com/iroom-gbs/tritone)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=rukimc&repo=hellomessage&theme=github_dark"/>
@@ -92,7 +92,7 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=fantasticwild&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=fantasticwild">](https://github.com/zlfn/fantasticwild)
 
-### Study
+### ⚗️ Study ⚗️
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=convexgl&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=convexgl">](https://github.com/zlfn/convexgl)
@@ -103,7 +103,7 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=rstat&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=rstat">](https://github.com/zlfn/rstat)
 
-### Wild Goose Chase
+### 🦜 Wild Goose Chase 🦜
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=Razerblade2020-hackintosh&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=razerblade2020-hackintosh">](https://github.com/zlfn/razerblade2020-hackintosh)
