@@ -1,5 +1,6 @@
 <img align="right" height=240 src="https://github-readme-stats.vercel.app/api?username=zlfn&theme=dracula&layout=compact&langs_count=10"/>
 
+
 <div align="center">
   
 # ZLFN [Kiroo]
@@ -66,6 +67,10 @@
 
 ---
 
+[![An image of @zlfn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zlfn)](https://holopin.io/@zlfn)
+
+---
+
 <div align="center">
   
 # 🏗️ Projects 🏗️
@@ -112,7 +117,6 @@
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=razerblade2020-hackintosh">](https://github.com/zlfn/razerblade2020-hackintosh)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=circuit&theme=dracula"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=circuit">](https://github.com/zlfn/circuit)
-
 
 
 
