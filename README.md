@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Rocket.rs-d33847?style=flat-square&logo=rocket.chat&logoColor=white&"/>
 <br/>
-<img src="https://img.shields.io/badge/Windows API-0078D4?style=flat-square&logo=windows&logoColor=white&"/>
+<img src="https://img.shields.io/badge/GraphQL-e10098?style=flat-square&logo=graphql&logoColor=white&"/>
 <img src="https://img.shields.io/badge/PaperMC-444444?style=flat-square&logo=minecraft&logoColor=white&"/>
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white&"/>
 
