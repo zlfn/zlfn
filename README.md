@@ -29,21 +29,20 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white&"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&"/>
-<img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Java-d76d1d?style=flat-square&logo=coffeescript&logoColor=white&"/>
-<br/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&"/>
+<br/>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white&"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&"/>
+<img src="https://img.shields.io/badge/GraphQL-e10098?style=flat-square&logo=graphql&logoColor=white&"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white&"/>
 
 ##### 📚 Library & Framework 📚
+<img src="https://img.shields.io/badge/React.js-00bfff?style=flat-square&logo=react&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&"/>
-<img src="https://img.shields.io/badge/Rocket.rs-d33847?style=flat-square&logo=rocket.chat&logoColor=white&"/>
 <br/>
-<img src="https://img.shields.io/badge/GraphQL-e10098?style=flat-square&logo=graphql&logoColor=white&"/>
+<img src="https://img.shields.io/badge/Rocket.rs-d33847?style=flat-square&logo=rocket.chat&logoColor=white&"/>
 <img src="https://img.shields.io/badge/PaperMC-444444?style=flat-square&logo=minecraft&logoColor=white&"/>
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white&"/>
 
