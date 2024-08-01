@@ -34,8 +34,9 @@
 <br/>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white&"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&"/>
-<img src="https://img.shields.io/badge/GraphQL-e10098?style=flat-square&logo=graphql&logoColor=white&"/>
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white&"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white&"/>
+
 
 ##### 📚 Library & Framework 📚
 <img src="https://img.shields.io/badge/React.js-00bfff?style=flat-square&logo=react&logoColor=white&"/>
@@ -43,7 +44,8 @@
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&"/>
 <br/>
 <img src="https://img.shields.io/badge/Rocket.rs-d33847?style=flat-square&logo=rocket.chat&logoColor=white&"/>
-<img src="https://img.shields.io/badge/PaperMC-444444?style=flat-square&logo=minecraft&logoColor=white&"/>
+<img src="https://img.shields.io/badge/PaperMC-444444?style=flat-square&logo=local&logoColor=white&"/>
+<img src="https://img.shields.io/badge/Apollo GQL-311C87?style=flat-square&logo=apollographql&logoColor=white&"/>
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white&"/>
 
 ##### 💚 Environment 💚
