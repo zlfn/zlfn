@@ -24,7 +24,7 @@
 <img align="left" width=370 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlfn&layout=compact&theme=dracula&langs_count=18"/>
 <div align="center">
 
-### Used in Project
+### Tech Queue
 ##### 📜 Language 📜
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white&"/>
