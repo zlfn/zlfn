@@ -1,6 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
-<img align="right" width=550 src="https://github-readme-stats.vercel.app/api?username=zlfn&theme=dracula&layout=compact&langs_count=10&show_icons=true&show=prs_merged,prs_merged_percentage"/>
+<img align="right" width=50% src="https://github-readme-stats.vercel.app/api?username=zlfn&theme=dracula&layout=compact&langs_count=10&show_icons=true&show=prs_merged,prs_merged_percentage"/>
 
 
 <div align="center">
@@ -21,7 +21,7 @@
 <br/>
   
 ---
-<img align="left" width=370 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlfn&layout=compact&theme=dracula&langs_count=18"/>
+<img align="left" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlfn&layout=compact&theme=dracula&langs_count=18"/>
 <div align="center">
 
 ### Tech Queue
