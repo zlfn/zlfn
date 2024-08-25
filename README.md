@@ -51,7 +51,6 @@
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Jetbrains IDEs-000000?style=flat-square&logo=jetbrains&logoColor=white&"/>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white&"/>
 </div>
 </br>
