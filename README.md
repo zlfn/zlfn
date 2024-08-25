@@ -21,7 +21,7 @@
 <br/>
   
 ---
-<img align="left" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlfn&layout=compact&theme=dracula&langs_count=18"/>
+<img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlfn&layout=compact&theme=dracula&langs_count=18"/>
 <div align="center">
 
 ### Tech Queue
