@@ -59,6 +59,7 @@
 <img src="https://img.shields.io/badge/Bazel-43A047?style=flat-square&logo=bazel&logoColor=white&"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white&"/>
+<img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white&"/>
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Vulkan-A41E22?style=flat-square&logo=vulkan&logoColor=white&"/>
 
