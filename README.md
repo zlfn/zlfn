@@ -75,52 +75,6 @@
 ---
 
 <div align="center">
-  
-# 🏗️ Projects 🏗️
-  
-### 🕸️ Web 🕸️
-
-
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=torpedo&theme=dracula"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=torpedo">
-</picture>](https://github.com/zlfn/torpedo)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=haedong-scoreboard&theme=dracula"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=haedong-scoreboard">](https://github.com/zlfn/haedong-scoreboard)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=iroom-gbs&repo=gbswiki&theme=dracula"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=iroom-gbs&repo=gbswiki">](https://github.com/iroom-gbs/gbswiki)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=escapegbs&theme=dracula"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=escapegbs">](https://github.com/zlfn/escapegbs)
-
-
-### 🧱 Minecraft 🧱
- 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=iroom-gbs&repo=tritone&theme=dracula"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=iroom-gbs&repo=tritone">](https://github.com/iroom-gbs/tritone)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=rukimc&repo=hellomessage&theme=dracula"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=rukimc&repo=hellomessage">](https://github.com/rukimc/hellomessage)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=iroom-gbs&repo=sovereignty&theme=dracula"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=iroom-gbs&repo=sovereignty">](https://github.com/iroom-gbs/sovereignty)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=fantasticwild&theme=dracula"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=fantasticwild">](https://github.com/zlfn/fantasticwild)
-
-### ⚗️ Study ⚗️
-
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=convexgl&theme=dracula"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=convexgl">](https://github.com/zlfn/convexgl)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=benford&theme=dracula"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=benford">](https://github.com/zlfn/benford)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=boj2cf&theme=dracula"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=boj2cf">](https://github.com/zlfn/boj2cf)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=rstat&theme=dracula"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=rstat">](https://github.com/zlfn/rstat)
-
-### 🦜 Wild Goose Chase 🦜
-
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=Razerblade2020-hackintosh&theme=dracula"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=razerblade2020-hackintosh">](https://github.com/zlfn/razerblade2020-hackintosh)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=circuit&theme=dracula"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=zlfn&repo=circuit">](https://github.com/zlfn/circuit)
-
 
 
 
