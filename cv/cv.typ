@@ -3,13 +3,13 @@
 = 박찬웅 | PARK CHANUNG | Kiroo(zlfn)
 #set block(spacing: 1.1em)
 #set par(first-line-indent:1em, justify:true)
-#show link: underline
+#show link:underline
 
 #set text(font:"JejuMyeongjo", size:13pt)
 #box()[
-  뭐라고 자기소개를 할 지 모르겠어서 일단 아무말이나 쓰는데요 \
-  Typst 생각보다 어렵네요 어떤 내용을 채워넣어야 할까요? \
-  이 내용은 나중에 3줄 짜리 자기소개로 대체할 예정
+  유연하면서도 신뢰성이 높은 프로그램 개발을 지향하는 학생 개발자입니다. \
+  어려운 설계나 도전적인 문제와 마주하는걸 즐깁니다. \
+  아무도 걸어보지 않은 길을 개척하며 지식을 공유하고 싶습니다.
 ]
 
 
@@ -123,7 +123,7 @@
   #set text(font: "Noto Sans KR", size:11pt)
   #box[#github_icon #box(inset:(y:2pt))[https://github.com/iroom-gbs/tritone : *★* 9]]\
 ]
-#block(height:50pt, inset:(x:7pt, y:-6pt))[
+#block(height:50pt, inset:(x:7pt, y:-7pt))[
   #set text(font:"JejuMyeongjo", size:13pt)
   Rust + Kotlin (Java Native Interface)을 이용한 마인크래프트 음성 채팅모드입니다. 현재는 Discord SDK가 Deprecated 되어 프로젝트가 중단되었지만, 만들었던 오픈소스 프로젝트 중에서 처음으로 외부 기여를 받았다는 의의가 있습니다.
 ]]
