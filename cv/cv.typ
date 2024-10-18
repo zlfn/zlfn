@@ -13,7 +13,7 @@
 #let phone_icon = box(image("assets/icons/square-phone-solid.svg"))
 
 #set text(font: "Noto Sans KR", size:11pt)
-#block(spacing:17pt, height:3pt)[#align(horizon)[
+#block(spacing:10pt, height:3pt)[#align(horizon)[
 #box[#email_icon *Email* : ung\@zlfn.space]
 #box(width:5pt)
 #box[#phone_icon *Phone* : +82 10 3242 7559]
