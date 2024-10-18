@@ -59,7 +59,7 @@ stroke: (x,y) => if x == 0{
 #set text(font: "Noto Sans CJK KR", size:11pt)
 2024.04 \~ / 프리랜서\
 강남구 대치동, 원격
-],[#box(inset:(x:7pt, y:0pt))[#set text(font: "Noto Sans CJK HK", size:12pt)
+],[#box(inset:(x:7pt, y:0pt))[#set text(font: "Noto Sans CJK KR", size:12pt)
   *Typescript / Next.js / Apollo GraphQL*]
   #set text(font:"JejuMyeongjo", size:13pt)
 #box(height:40pt, inset:(x:7pt, y:2pt))[
