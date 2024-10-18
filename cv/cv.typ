@@ -1,46 +1,36 @@
-#set page(margin:(x:30pt, y:40pt))
+#set page(margin:(x:30pt, y:20pt))
 #set text(font:"Wavve PADO TTF", size:16pt)
 = 박찬웅 | PARK CHANUNG | Kiroo(zlfn)
 #set block(spacing: 1.1em)
 #set par(first-line-indent:1em, justify:true)
 #show link:underline
 
-#set text(font:"JejuMyeongjo", size:13pt)
-#box()[
-  유연하면서도 신뢰성이 높은 프로그램 개발을 지향하는 학생 개발자입니다. \
-  어려운 설계나 도전적인 문제와 마주하는걸 즐깁니다. \
-  아무도 걸어보지 않은 길을 개척하며 지식을 공유하고 싶습니다.
-]
-
-
 #set text(font:"Wavve PADO TTF", size:15pt)
-#set box(height:13pt)
+#set box(height:11pt)
 #let linkedin_icon = box(image("assets/icons/linkedin.svg"))
 #let github_icon = box(image("assets/icons/square-github.svg"))
 #let email_icon = box(image("assets/icons/square-envelope-solid.svg"))
 #let phone_icon = box(image("assets/icons/square-phone-solid.svg"))
 
-#line(length:100%)
-
-== 인적사항
-#set text(font: "Noto Sans KR", size:13pt)
+#set text(font: "Noto Sans KR", size:11pt)
 #block(spacing:17pt, height:3pt)[#align(horizon)[
 #box[#email_icon *Email* : ung\@zlfn.space]
-#box(width:20pt)
-#box[#github_icon *GitHub* : https://github.com/zlfn]
-]]
-#block(height:4pt)[#align(horizon)[
+#box(width:5pt)
 #box[#phone_icon *Phone* : +82 10 3242 7559]
-#box(width:8pt)
-#box[#linkedin_icon *LinkedIn* : https://www.linkedin.com/in/pcung]
-]] \
-*포항공과대학교* 무은재학부 1학년 재학\
-2024.02 \~ \
-*경기북과학고등학교* 졸업\
-2021.03 \~ 2024.02
-#block(spacing:0pt, height:12pt)
+#box(width:5pt)
+#box[#github_icon *GitHub* : https://github.com/zlfn]
 
-#line(length:100%)
+]]
+
+#set text(font: "Noto Sans KR", size:11pt)
+*포항공과대학교* 무은재학부 1학년 재학: 2024.02 \~
+
+#set text(font:"JejuMyeongjo", size:13pt)
+#block(height:50pt, inset:0pt)[
+  유연하면서도 신뢰성이 높은 프로그램 개발을 지향하는 학생 개발자입니다. \
+  어려운 설계나 도전적인 문제와 마주하는걸 즐깁니다. \
+  아무도 걸어보지 않은 길을 개척하며 지식을 공유하고 싶습니다.
+]
 
 #set text(font:"Wavve PADO TTF", size:15pt)
 == 경력
@@ -54,9 +44,9 @@
     ))
 },[
   #set text(font:"Wavve PADO TTF", size:13pt)
-  강두영 수학 연구소\
-  #set text(font: "Noto Sans KR", size:12pt)
   프론트엔드 개발\
+  #set text(font: "Noto Sans KR", size:12pt)
+  강두영 수학 연구소\
   #set text(font: "Noto Sans KR", size:11pt)
   2024.04 \~ / 프리랜서\
   강남구 대치동, 원격
@@ -70,9 +60,6 @@
   ]
 ])
 ]
-
-
-#line(length:100%)
 
 == 기술
 #block(inset:0pt, height:65pt)[
@@ -94,8 +81,6 @@
   Git, Neovim, Minecraft, LLVM
 ]
 
-#line(length:100%)
-
 == 프로젝트
 #block(inset:(x:0pt, y:3pt))[=== Rust-GB #box[
   #set text(font: "Noto Sans KR", size:10pt)
@@ -107,11 +92,10 @@
     #set text(font: "Noto Sans KR", size:11pt)
   *Rust Weekly*: https://discu.eu/weekly/rust/2024/38/\
 ]
-#block(height:170pt, inset:(x:8pt, y:-3pt))[
+#block(height:140pt, inset:(x:8pt, y:-3pt))[
   #set text(font:"JejuMyeongjo", size:13pt)
-  Rust 코드를 닌텐도 게임보이에 컴파일하고, Rust로 게임보이 롬을 개발할 수 있는 API를 제공하는 프로젝트입니다. 게임보이의 CPU인 Z80(SM83)은 LLVM의 정식 타겟이 아니기 때문에, llvm-cbe와 GBDK를 이용하여 Rust->C->ASM의 과정을 거쳐 코드를 컴파일했고, 이 과정에서 많은 기술적 난관을 극복하였습니다. \
-  게임보이는 현대의 CPU와 다른 특성을 다수 가지고 있기 때문에 게임보이 소프트웨어를 Rust로 안전하게 모델링하는 것이 주요 과제가 되었고, `no-std` 환경의 러스트를 공부할 수 있는 좋은 기회가 되었습니다. \
-  이 프로젝트는 국내외 러스트 / 게임보이 개발 커뮤니티에서 소소한 관심을 끌어 주간 Rust Weekly나 GitTrends에 소개되기도 하였습니다.
+  Rust 코드를 닌텐도 게임보이에 컴파일할 수 있는 컴파일러 툴체인과, API를 제공하는 프로젝트입니다. 게임보이의 CPU인 Z80은 LLVM의 정식 타겟이 아니기 때문에, llvm-cbe와 GBDK를 이용하여 Rust->C->ASM의 과정을 거쳐 코드를 컴파일했고, 이 과정에서 각 툴체인간 버전 호환 등 많은 기술적 난관을 극복하였습니다. \
+  게임보이는 현대의 컴퓨터와 다른 특성을 다수 가지고 있기 때문에 게임보이 API를 Rust로 안전하게 디자인하는 것이 주요 과제가 되었고, 이 디자인을 GitHub Discussion을 통해 토론하며 좋은 API 디자인에 대해 고민할 수 있었습니다. 또한, `no-std` 환경의 러스트를 공부하며 Rust의 표준 라이브러리나 힙 할당이 어떤 과정을 통해 작동하는지 이해할 수 있었습니다. \
 ]]
 
 
@@ -123,12 +107,12 @@
   #set text(font: "Noto Sans KR", size:11pt)
   #box[#github_icon #box(inset:(y:2pt))[https://github.com/iroom-gbs/tritone : *★* 9]]\
 ]
-#block(height:50pt, inset:(x:7pt, y:-7pt))[
+#block(height:30pt, inset:(x:7pt, y:-7pt))[
   #set text(font:"JejuMyeongjo", size:13pt)
-  Rust + Kotlin (Java Native Interface)을 이용한 마인크래프트 음성 채팅모드입니다. 현재는 Discord SDK가 Deprecated 되어 프로젝트가 중단되었지만, 만들었던 오픈소스 프로젝트 중에서 처음으로 외부 기여를 받았다는 의의가 있습니다.
+  Rust 코드를 Kotlin / Java Native Interface를 통해 마인크래프트에 주입하여 게임에 특정 서버 플러그인에 의존하지 않는 음성 대화 기능을 추가하는 프로젝트입니다.
 ]]
 
-#block(inset:(x:0pt, y:3pt))[=== GBS.WIKI #box[
+#block(inset:(x:0pt, y:3pt), height:120pt)[=== GBS.WIKI #box[
   #set text(font: "Noto Sans KR", size:10pt)
   CSS, FastAPI, Nginx, SEO, OAuth2\
 ]
@@ -140,11 +124,8 @@
 ]
 #block(inset:(x:7pt, y:-3pt))[
   #set text(font:"JejuMyeongjo", size:13pt)
-  경기북과학고 교내 위키입니다. 프론트엔드 일부 개발과 운영, 서버의 유지 보수를 맡았습니다. SEO와 외부 서비스 연동, OAuth 등을 경험할 수 있었습니다. 고등학교를 졸업할 때 후배들에게 인수인계하며 서비스를 인수인계 하는 체계를 만드는 경험도 할 수 있었습니다.
+  경기북과학고 교내 위키입니다. Google Adsence 등 외부 서비스를 가져오는 방법을 배우고, OAuth API를 연동/제공하는 경험을 할 수 있었습니다. 고등학교를 졸업할 때 후배들에게 인수인계하며 서비스를 인수인계 하는 체계를 만드는 경험도 할 수 있었습니다.
 ]]
-
-#block()
-#line(length:100%)
 
 == 리서치
 #block(inset:(x:0pt, y:5pt), height:80pt)[
@@ -156,17 +137,16 @@
   ]
 ]
 
-#line(length:100%)
-
 == 오픈소스 기여
 === rust-lang/rust
 #block(inset:0pt, spacing:0pt)[
   #set text(font: "Noto Sans KR", size:12pt)
   *Pull Request*: https://github.com/rust-lang/rust/pull/131730\
 ]
-#block(inset:(x:7pt, y:0pt), above:10pt,)[
+#block(inset:(x:7pt, y:0pt), above:10pt)[
   #set text(font:"JejuMyeongjo", size:13pt)
-  러스트 언어 `core` 라이브러리의 중복 매크로를 제거하고 코드를 리팩토링하였습니다.
+  러스트 언어 `core` 라이브러리의 중복 매크로를 제거하고 코드를 리팩토링하였습니다.\
+  러스트라는 언어가 만들어지는 과정과 PR에 대한 테스트, PR 자동 병합 등 큰 오픈소스 프로젝트를 관리하는 방법을 배울 수 있었습니다.
 ]
 
 === JuliaHubOSS/llvm-cbe
@@ -175,9 +155,9 @@
   *Issue*: https://github.com/JuliaHubOSS/llvm-cbe/issues/207 외 다수\
   *Pull Request*: https://github.com/JuliaHubOSS/llvm-cbe/pull/210 외 다수\
 ]
-#block(inset:(x:7pt, y:0pt), above:10pt,)[
+#block(inset:(x:7pt, y:0pt), above:10pt)[
   #set text(font:"JejuMyeongjo", size:13pt)
-  llvm-cbe는 LLVM-IR을 C로 변환하는 백엔드입니다. 현재는 JuliaHub에서 관리하고 있습니다. Rust-GB 프로젝트를 진행하는 과정에서 최신 LLVM-19 지원, 빠진 Intrinsic 구현 등 프로젝트에 필요한 다양한 기여를 하였습니다.
+  llvm-cbe는 LLVM-IR을 C로 변환하는 백엔드입니다. Rust-GB 프로젝트를 진행하는 과정에서 최신 LLVM-19 지원, 빠진 Intrinsic 구현 등 프로젝트에 필요한 다양한 기여를 하였습니다. 이 과정에서 LLVM의 구조를 이해하고, 마이그레이션 가이드 없이 각 버전간 소스코드만으로 의존성 버전을 마이그레이션하는 방법을 배울 수 있었습니다.
 ]
 
 
@@ -187,9 +167,9 @@
   *Issue*: https://github.com/trilbymedia/grav-plugin-custom-http-headers/issues/1\
   *Pull Request*: https://github.com/trilbymedia/grav-plugin-custom-http-headers/pull/4\
 ]
-#block(inset:(x:7pt, y:0pt), above:10pt,)[
+#block(inset:(x:7pt, y:0pt), above:10pt)[
   #set text(font:"JejuMyeongjo", size:13pt)
-  콘텐츠 관리 시스템(블로그 엔진)인 Grav의 준 공식 플러그인입니다. 플러그인 기본 설정에서 X-Frame-Options 헤더를 deny로 설정하여 플러그인이 Grav의 기본 기능과 충돌을 일으키는 문제가 있어, 해당 헤더를 config 파일에서 제외하는 기여를 하였습니다.
+  플러그인 기본 설정에서 X-Frame-Options 헤더를 deny로 설정하여 플러그인이 Grav의 기본 기능과 충돌을 일으키는 문제가 있어, 해당 헤더를 config 파일에서 제외하는 기여를 하였습니다.
 ]
 
 === 현지화 기여
@@ -201,8 +181,6 @@
   #set text(font:"Wavve PADO TTF", size:11pt)
   이외에도 Grav, Optimus Manager QT 등 다양한 오픈소스/상용 소프트웨어에 번역 기여를 하였습니다.
 ]
-
-#line(length:100%)
 
 == 자격 / 시험
 #block(inset:(x:7pt, y:0pt))[
