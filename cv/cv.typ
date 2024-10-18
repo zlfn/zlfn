@@ -122,12 +122,12 @@
   #set text(font: "Noto Sans KR", size:11pt)
   #box[#github_icon #box(inset:(y:2pt))[https://github.com/iroom-gbs/tritone : *★* 9]]\
 ]
-#block(height:50pt, inset:(x:7pt, y:-4pt))[
+#block(height:50pt, inset:(x:7pt, y:-6pt))[
   #set text(font:"JejuMyeongjo", size:13pt)
   Rust + Kotlin (Java Native Interface)을 이용한 마인크래프트 음성 채팅모드입니다. 현재는 Discord SDK가 Deprecated 되어 프로젝트가 중단되었지만, 만들었던 오픈소스 프로젝트 중에서 처음으로 외부 기여를 받았다는 의의가 있습니다.
 ]]
 
-=== GBS.WIKI #box[
+#block(inset:(x:0pt, y:3pt))[=== GBS.WIKI #box[
   #set text(font: "Noto Sans KR", size:10pt)
   CSS, FastAPI, Nginx, SEO, OAuth2\
 ]
@@ -140,7 +140,7 @@
 #block(inset:(x:7pt, y:-3pt))[
   #set text(font:"JejuMyeongjo", size:13pt)
   경기북과학고 교내 위키입니다. 프론트엔드 일부 개발과 운영, 서버의 유지 보수를 맡았습니다. SEO와 외부 서비스 연동, OAuth 등을 경험할 수 있었습니다. 고등학교를 졸업할 때 후배들에게 인수인계하며 서비스를 인수인계 하는 체계를 만드는 경험도 할 수 있었습니다.
-]
+]]
 
 #block()
 #line(length:100%)
