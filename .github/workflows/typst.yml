@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - cv/**
+      - .github/workflows/typst.yml
 
 jobs:
   build_typst_documents:
@@ -19,3 +20,12 @@ jobs:
         with:
           name: PDF
           path: cv/cv.pdf
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Build cv.pdf
+          branch: master
+          commit_options: '--no-verify --signoff'
+          commit_author: Author <actions@github.com>
+          status_options: '--untracked-files=no'
+          skip_dirty_check: true
