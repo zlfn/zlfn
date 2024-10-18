@@ -79,15 +79,15 @@
   #set text(font:"Wavve PADO TTF", size:12pt)
   Language: 
   #set text(font: "Noto Sans KR", size:11pt)
-  Rust, C++, Typescript, Kotlin, Scala, Python\
+  Rust, Python, C++, Typescript, Kotlin, Scala\
   #set text(font:"Wavve PADO TTF", size:12pt)
   Web:
   #set text(font: "Noto Sans KR", size:11pt)
-  Next.js, Typescript, WebSocket\
+  Next.js, axum, rocket.rs, WebSocket\
   #set text(font:"Wavve PADO TTF", size:12pt)
   Infrastructure:
   #set text(font: "Noto Sans KR", size:11pt)
-  SELinux, NGINX, Docker, GCP\
+  nginx, Docker, SELinux, GCP\
   #set text(font:"Wavve PADO TTF", size:12pt)
   기타:
   #set text(font: "Noto Sans KR", size:11pt)
