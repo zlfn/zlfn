@@ -96,13 +96,13 @@ stroke: (x,y) => if x == 0{
 
 == 프로젝트
 #block(inset:(x:0pt, y:3pt))[=== Rust-GB #box[
-  #set text(font: "Noto Sans CJK HK", size:10pt)
+  #set text(font: "Noto Sans CJK KR", size:10pt)
   Rust, Embedded, C, Assembly, LLVM\
 ]
 #block(inset:0pt, spacing:0pt)[
-  #set text(font: "Noto Sans CJK HK", size:11pt)
+  #set text(font: "Noto Sans CJK KR", size:11pt)
   #box[#github_icon #box(inset:(y:2pt))[https://github.com/zlfn/rust-gb : *★* 133]]\
-  #set text(font: "Noto Sans CJK HK", size:11pt)
+  #set text(font: "Noto Sans CJK KR", size:11pt)
   *Rust Weekly*: https://discu.eu/weekly/rust/2024/38/\
 ]
 #block(height:90pt, inset:(x:8pt, y:-9pt))[
