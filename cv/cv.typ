@@ -1,13 +1,15 @@
 #set page(margin:(x:30pt, y:40pt))
 #set text(font:"Wavve PADO TTF", size:16pt)
+
 = 박찬웅 | PARK CHANUNG | Kiroo(zlfn)
 #show par: set block(spacing: 0.65em)
 #set par(first-line-indent:1em, justify:true)
 
 #set text(font:"JejuMyeongjo", size:13pt)
-#box()[뭐라고 자기소개를 할 지 모르겠어서 일단 아무말이나 쓰는데요 \
-Typst 생각보다 어렵네요 어떤 내용을 채워넣어야 할까요? \
-이 내용은 나중에 3줄 짜리 자기소개로 대체할 예정
+#box[
+  뭐라고 자기소개를 할 지 모르겠어서 일단 아무말이나 쓰는데요 \
+  Typst 생각보다 어렵네요 어떤 내용을 채워넣어야 할까요? \
+  이 내용은 나중에 3줄 짜리 자기소개로 대체할 예정
 ]
 
 
@@ -67,6 +69,7 @@ stroke: (x,y) => if x == 0{
   수학 학원의 문제 데이터베이스 관리, pdf로 문제집 배포, 온라인 문제 은행 등을 제공하는 LMS 서비스 웹 프론트엔드를 개발하고 있습니다.\
 ]
 ])
+
 #line(length:100%)
 
 == 기술
@@ -84,7 +87,6 @@ stroke: (x,y) => if x == 0{
   #set text(font: "Noto Sans CJK HK", size:11pt)
   SELinux, NGINX, Docker, GCP\
   #set text(font:"Wavve PADO TTF", size:12pt)
-  #set text(font:"Wavve PADO TTF", size:12pt)
   기타:
   #set text(font: "Noto Sans CJK HK", size:11pt)
   Git, Neovim, Minecraft, LLVM
@@ -98,9 +100,9 @@ stroke: (x,y) => if x == 0{
   Rust, Embedded, C, Assembly, LLVM\
 ]
 #block(inset:0pt, spacing:0pt)[
-    #set text(font: "Noto Sans CJK HK", size:11pt)
+  #set text(font: "Noto Sans CJK HK", size:11pt)
   #box[#github_icon #box(inset:(y:2pt))[https://github.com/zlfn/rust-gb : *★* 133]]\
-    #set text(font: "Noto Sans CJK HK", size:11pt)
+  #set text(font: "Noto Sans CJK HK", size:11pt)
   *Rust Weekly*: https://discu.eu/weekly/rust/2024/38/\
 ]
 #block(height:90pt, inset:(x:8pt, y:-9pt))[
@@ -116,7 +118,7 @@ stroke: (x,y) => if x == 0{
   Kotlin, Rust, Discord\
 ]
 #block(inset:0pt, spacing:0pt)[
-    #set text(font: "Noto Sans CJK HK", size:11pt)
+  #set text(font: "Noto Sans CJK HK", size:11pt)
   #box[#github_icon #box(inset:(y:2pt))[https://github.com/iroom-gbs/tritone : *★* 9]]\
 ]
 #block(height:35pt, inset:(x:7pt, y:-12pt))[
@@ -129,9 +131,9 @@ stroke: (x,y) => if x == 0{
   CSS, FastAPI, Nginx, SEO, OAuth2\
 ]
 #block(inset:0pt, spacing:0pt)[
-      #set text(font: "Noto Sans CJK HK", size:11pt)
+  #set text(font: "Noto Sans CJK HK", size:11pt)
   #box[#github_icon #box(inset:(y:2pt))[https://github.com/Iroom-gbs/GBSWiki : *★* 2]]\
-    #set text(font: "Noto Sans CJK HK", size:11pt)
+  #set text(font: "Noto Sans CJK HK", size:11pt)
   *Website*: https://gbs.wiki\
 ]
 #block(inset:(x:7pt, y:-9pt))[
@@ -156,7 +158,7 @@ stroke: (x,y) => if x == 0{
 == 오픈소스 기여
 === rust-lang/rust
 #block(inset:0pt, spacing:0pt)[
-     #set text(font: "Noto Sans CJK HK", size:12pt)
+  #set text(font: "Noto Sans CJK HK", size:12pt)
   *Pull Request*: https://github.com/rust-lang/rust/pull/131730\
 ]
 #block(inset:(x:7pt, y:0pt), above:10pt,)[
@@ -166,7 +168,7 @@ stroke: (x,y) => if x == 0{
 
 === JuliaHubOSS/llvm-cbe
 #block(inset:0pt, spacing:0pt)[
-     #set text(font: "Noto Sans CJK HK", size:12pt)
+  #set text(font: "Noto Sans CJK HK", size:12pt)
   *Issue*: https://github.com/JuliaHubOSS/llvm-cbe/issues/207 외 다수\
   *Pull Request*: https://github.com/JuliaHubOSS/llvm-cbe/pull/210 외 다수\
 ]
@@ -178,7 +180,7 @@ stroke: (x,y) => if x == 0{
 
 === trilbymedia/grav-plugin-custom-http-headers
 #block(inset:0pt, spacing:0pt)[
-     #set text(font: "Noto Sans CJK HK", size:12pt)
+  #set text(font: "Noto Sans CJK HK", size:12pt)
   *Issue*: https://github.com/trilbymedia/grav-plugin-custom-http-headers/issues/1\
   *Pull Request*: https://github.com/trilbymedia/grav-plugin-custom-http-headers/pull/4\
 ]
