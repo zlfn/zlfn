@@ -31,7 +31,7 @@
 ]]
 #block(height:4pt)[#align(horizon)[
 #box[#phone_icon *Phone* : +82 10 3242 7559]
-#box(width:6pt)
+#box(width:7pt)
 #box[#linkedin_icon *LinkedIn* : https://www.linkedin.com/in/pcung]
 ]] \
 *포항공과대학교* 무은재학부 1학년 재학\
