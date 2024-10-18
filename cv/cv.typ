@@ -22,7 +22,7 @@
 #line(length:100%)
 
 == 인적사항
-#set text(font: "Noto Sans CJK KR", size:13pt)
+#set text(font: "Noto Sans KR", size:13pt)
 #block(spacing:17pt, height:3pt)[#align(horizon)[
 #box[#email_icon *Email* : ung\@zlfn.space]
 #box(width:20pt)
@@ -54,12 +54,12 @@ stroke: (x,y) => if x == 0{
 },[
 #set text(font:"Wavve PADO TTF", size:13pt)
 강두영 수학 연구소\
-#set text(font: "Noto Sans CJK KR", size:12pt)
+#set text(font: "Noto Sans KR", size:12pt)
 프론트엔드 개발\
-#set text(font: "Noto Sans CJK KR", size:11pt)
+#set text(font: "Noto Sans KR", size:11pt)
 2024.04 \~ / 프리랜서\
 강남구 대치동, 원격
-],[#box(inset:(x:7pt, y:0pt))[#set text(font: "Noto Sans CJK KR", size:12pt)
+],[#box(inset:(x:7pt, y:0pt))[#set text(font: "Noto Sans KR", size:12pt)
   *Typescript / Next.js / Apollo GraphQL*]
   #set text(font:"JejuMyeongjo", size:13pt)
 #box(height:40pt, inset:(x:7pt, y:2pt))[
@@ -74,19 +74,19 @@ stroke: (x,y) => if x == 0{
 #block(inset:0pt)[
   #set text(font:"Wavve PADO TTF", size:12pt)
   Language: 
-  #set text(font: "Noto Sans CJK KR", size:11pt)
+  #set text(font: "Noto Sans KR", size:11pt)
   Rust, C++, Typescript, Kotlin, Scala, Python\
   #set text(font:"Wavve PADO TTF", size:12pt)
   Web:
-  #set text(font: "Noto Sans CJK KR", size:11pt)
+  #set text(font: "Noto Sans KR", size:11pt)
   Next.js, Typescript, WebSocket\
   #set text(font:"Wavve PADO TTF", size:12pt)
   Infrastructure:
-  #set text(font: "Noto Sans CJK KR", size:11pt)
+  #set text(font: "Noto Sans KR", size:11pt)
   SELinux, NGINX, Docker, GCP\
   #set text(font:"Wavve PADO TTF", size:12pt)
   기타:
-  #set text(font: "Noto Sans CJK KR", size:11pt)
+  #set text(font: "Noto Sans KR", size:11pt)
   Git, Neovim, Minecraft, LLVM
 ]
 #block(height:0pt, inset:0pt, above:1pt)
@@ -94,13 +94,13 @@ stroke: (x,y) => if x == 0{
 
 == 프로젝트
 #block(inset:(x:0pt, y:3pt))[=== Rust-GB #box[
-  #set text(font: "Noto Sans CJK KR", size:10pt)
+  #set text(font: "Noto Sans KR", size:10pt)
   Rust, Embedded, C, Assembly, LLVM\
 ]
 #block(inset:0pt, spacing:0pt)[
-  #set text(font: "Noto Sans CJK KR", size:11pt)
+  #set text(font: "Noto Sans KR", size:11pt)
   #box[#github_icon #box(inset:(y:2pt))[https://github.com/zlfn/rust-gb : *★* 133]]\
-    #set text(font: "Noto Sans CJK KR", size:11pt)
+    #set text(font: "Noto Sans KR", size:11pt)
   *Rust Weekly*: https://discu.eu/weekly/rust/2024/38/\
 ]
 #block(height:90pt, inset:(x:8pt, y:0pt))[
@@ -112,11 +112,11 @@ stroke: (x,y) => if x == 0{
 
 
 === Tritone #box[
-  #set text(font: "Noto Sans CJK KR", size:10pt)
+  #set text(font: "Noto Sans KR", size:10pt)
   Kotlin, Rust, Discord\
 ]
 #block(inset:0pt, spacing:0pt)[
-  #set text(font: "Noto Sans CJK KR", size:11pt)
+  #set text(font: "Noto Sans KR", size:11pt)
   #box[#github_icon #box(inset:(y:2pt))[https://github.com/iroom-gbs/tritone : *★* 9]]\
 ]
 #block(height:50pt, inset:(x:7pt, y:0pt))[
@@ -125,13 +125,13 @@ stroke: (x,y) => if x == 0{
 ]
 
 === GBS.WIKI #box[
-  #set text(font: "Noto Sans CJK KR", size:10pt)
+  #set text(font: "Noto Sans KR", size:10pt)
   CSS, FastAPI, Nginx, SEO, OAuth2\
 ]
 #block(inset:0pt, spacing:0pt)[
-  #set text(font: "Noto Sans CJK KR", size:11pt)
+  #set text(font: "Noto Sans KR", size:11pt)
   #box[#github_icon #box(inset:(y:2pt))[https://github.com/Iroom-gbs/GBSWiki : *★* 2]]\
-    #set text(font: "Noto Sans CJK KR", size:11pt)
+    #set text(font: "Noto Sans KR", size:11pt)
   *Website*: https://gbs.wiki\
 ]
 #block(inset:(x:7pt, y:0pt))[
@@ -156,7 +156,7 @@ stroke: (x,y) => if x == 0{
 == 오픈소스 기여
 === rust-lang/rust
 #block(inset:0pt, spacing:0pt)[
-  #set text(font: "Noto Sans CJK KR", size:12pt)
+  #set text(font: "Noto Sans KR", size:12pt)
   *Pull Request*: https://github.com/rust-lang/rust/pull/131730\
 ]
 #block(inset:(x:7pt, y:0pt), above:10pt,)[
@@ -166,7 +166,7 @@ stroke: (x,y) => if x == 0{
 
 === JuliaHubOSS/llvm-cbe
 #block(inset:0pt, spacing:0pt)[
-  #set text(font: "Noto Sans CJK KR", size:12pt)
+  #set text(font: "Noto Sans KR", size:12pt)
   *Issue*: https://github.com/JuliaHubOSS/llvm-cbe/issues/207 외 다수\
   *Pull Request*: https://github.com/JuliaHubOSS/llvm-cbe/pull/210 외 다수\
 ]
@@ -178,7 +178,7 @@ stroke: (x,y) => if x == 0{
 
 === trilbymedia/grav-plugin-custom-http-headers
 #block(inset:0pt, spacing:0pt)[
-  #set text(font: "Noto Sans CJK KR", size:12pt)
+  #set text(font: "Noto Sans KR", size:12pt)
   *Issue*: https://github.com/trilbymedia/grav-plugin-custom-http-headers/issues/1\
   *Pull Request*: https://github.com/trilbymedia/grav-plugin-custom-http-headers/pull/4\
 ]
