@@ -1,5 +1,8 @@
 name: Build Typst document
-on: push
+on:
+  push:
+    paths:
+      - cv/**
 
 jobs:
   build_typst_documents:
