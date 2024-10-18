@@ -1,12 +1,11 @@
 #set page(margin:(x:30pt, y:40pt))
 #set text(font:"Wavve PADO TTF", size:16pt)
-
 = 박찬웅 | PARK CHANUNG | Kiroo(zlfn)
-#show par: set block(spacing: 0.65em)
+#set block(spacing: 0.65em)
 #set par(first-line-indent:1em, justify:true)
 
 #set text(font:"JejuMyeongjo", size:13pt)
-#box[
+#box()[
   뭐라고 자기소개를 할 지 모르겠어서 일단 아무말이나 쓰는데요 \
   Typst 생각보다 어렵네요 어떤 내용을 채워넣어야 할까요? \
   이 내용은 나중에 3줄 짜리 자기소개로 대체할 예정
@@ -24,22 +23,21 @@
 
 == 인적사항
 #set text(font: "Noto Sans CJK KR", size:13pt)
-#block(spacing:0pt, height:4pt)
-#block(spacing:0pt, height:3pt)[#align(horizon)[
+#block(spacing:17pt, height:3pt)[#align(horizon)[
 #box[#email_icon *Email* : ung\@zlfn.space]
 #box(width:20pt)
 #box[#github_icon *GitHub* : https://github.com/zlfn]
 ]]
 #block(height:4pt)[#align(horizon)[
 #box[#phone_icon *Phone* : +82 10-3242-7559]
-#box(width:5pt)
+#box(width:6pt)
 #box[#linkedin_icon *LinkedIn* : https://www.linkedin.com/in/pcung]
 ]] \
 *포항공과대학교* 무은재학부 1학년 재학 중\
 2024.02 \~ \
 *경기북과학고등학교* 졸업\
 2021.03 \~ 2024.02
-#block(spacing:0pt, height:0pt)
+#block(spacing:0pt, height:12pt)
 
 #line(length:100%)
 
@@ -53,8 +51,7 @@ stroke: (x,y) => if x == 0{
         thickness: 2pt,
         dash: "dotted"
       ))
-    },
-    [
+},[
 #set text(font:"Wavve PADO TTF", size:13pt)
 강두영 수학 연구소\
 #set text(font: "Noto Sans CJK KR", size:12pt)
@@ -69,6 +66,7 @@ stroke: (x,y) => if x == 0{
   수학 학원의 문제 데이터베이스 관리, pdf로 문제집 배포, 온라인 문제 은행 등을 제공하는 LMS 서비스 웹 프론트엔드를 개발하고 있습니다.\
 ]
 ])
+#block(spacing:0pt, height:4pt)
 
 #line(length:100%)
 
@@ -102,10 +100,10 @@ stroke: (x,y) => if x == 0{
 #block(inset:0pt, spacing:0pt)[
   #set text(font: "Noto Sans CJK KR", size:11pt)
   #box[#github_icon #box(inset:(y:2pt))[https://github.com/zlfn/rust-gb : *★* 133]]\
-  #set text(font: "Noto Sans CJK KR", size:11pt)
+    #set text(font: "Noto Sans CJK KR", size:11pt)
   *Rust Weekly*: https://discu.eu/weekly/rust/2024/38/\
 ]
-#block(height:90pt, inset:(x:8pt, y:-9pt))[
+#block(height:90pt, inset:(x:8pt, y:0pt))[
   #set text(font:"JejuMyeongjo", size:13pt)
   Rust 코드를 닌텐도 게임보이에 컴파일하고, Rust로 게임보이 롬을 개발할 수 있는 API를 제공하는 프로젝트입니다. 게임보이의 CPU인 Z80(SM83)은 LLVM의 정식 타겟이 아니기 때문에, llvm-cbe와 GBDK를 이용하여 Rust->C->ASM의 과정을 거쳐 코드를 컴파일했습니다. \
   게임보이는 현대의 CPU와 다른 특성을 다수 가지고 있기 때문에 게임보이 소프트웨어를 Rust로 안전하게 모델링하는 것이 주요 과제가 되었습니다. \
@@ -121,7 +119,7 @@ stroke: (x,y) => if x == 0{
   #set text(font: "Noto Sans CJK KR", size:11pt)
   #box[#github_icon #box(inset:(y:2pt))[https://github.com/iroom-gbs/tritone : *★* 9]]\
 ]
-#block(height:35pt, inset:(x:7pt, y:-12pt))[
+#block(height:50pt, inset:(x:7pt, y:0pt))[
   #set text(font:"JejuMyeongjo", size:13pt)
   Rust + Kotlin (Java Native Interface)을 이용한 마인크래프트 음성 채팅모드입니다. 현재는 Discord SDK가 Deprecated 되어 프로젝트가 중단되었지만, 만들었던 오픈소스 프로젝트 중에서 처음으로 외부 기여를 받았다는 의의가 있습니다.
 ]
@@ -133,10 +131,10 @@ stroke: (x,y) => if x == 0{
 #block(inset:0pt, spacing:0pt)[
   #set text(font: "Noto Sans CJK KR", size:11pt)
   #box[#github_icon #box(inset:(y:2pt))[https://github.com/Iroom-gbs/GBSWiki : *★* 2]]\
-  #set text(font: "Noto Sans CJK KR", size:11pt)
+    #set text(font: "Noto Sans CJK KR", size:11pt)
   *Website*: https://gbs.wiki\
 ]
-#block(inset:(x:7pt, y:-9pt))[
+#block(inset:(x:7pt, y:0pt))[
   #set text(font:"JejuMyeongjo", size:13pt)
   경기북과학고 교내 위키입니다. 프론트엔드 일부 개발과 운영, 유지 보수를 맡았습니다. SEO와 외부 서비스 연동, OAuth 등을 경험할 수 있었습니다. 고등학교를 졸업할 때 후배들에게 인수인계하며 서비스를 인수인계 하는 체계를 만드는 경험도 할 수 있었습니다.
 ]
@@ -148,7 +146,7 @@ stroke: (x,y) => if x == 0{
 #block(inset:(x:0pt, y:5pt))[
   #set text(weight:"bold", font:"PT Serif", size:14pt)
   Optimization of 3D convex hull computation using OpenGL compute shaders
-  #block(inset:(x:7pt, y:0pt), spacing:0pt)[
+  #block(inset:(x:7pt, y:10pt), spacing:0pt)[
     #set text(font:"JejuMyeongjo", size:13pt)
     고등학교 졸업 연구입니다. OpenGL의 ComputeShader를 활용하여 3차원 Point Cloud에서의 Convex Hull을 계산하는 Quick Hull 알고리즘을 GPU 병렬 컴퓨팅으로 연산하여 CPU와의 속도를 비교하였습니다.
   ]
@@ -198,12 +196,11 @@ stroke: (x,y) => if x == 0{
   #set text(font:"Wavve PADO TTF", size:11pt)
   이외에도 Grav, Optimus Manager QT 등 다양한 오픈소스/상용 소프트웨어에 번역 기여를 하였습니다.
 ]
-
 #line(length:100%)
-
 == 자격 / 시험
 #block(inset:(x:7pt, y:0pt))[
   #set text(font:"Wavve PADO TTF", size:13pt)
   JLPT N2\
   운전면허 1종보통 (운전 경력 없음)\
 ]
+
