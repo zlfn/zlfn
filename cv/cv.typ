@@ -1,4 +1,4 @@
-#set page(margin:(x:30pt, y:20pt))
+#set page(margin:(x:30pt, y:25pt))
 #set text(font:"Wavve PADO TTF", size:16pt)
 = 박찬웅 | PARK CHANUNG | Kiroo(zlfn)
 #set block(spacing: 1.1em)
