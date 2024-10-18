@@ -3,6 +3,7 @@
 = 박찬웅 | PARK CHANUNG | Kiroo(zlfn)
 #set block(spacing: 1.1em)
 #set par(first-line-indent:1em, justify:true)
+#show link: underline
 
 #set text(font:"JejuMyeongjo", size:13pt)
 #box()[
