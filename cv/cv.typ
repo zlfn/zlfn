@@ -88,7 +88,7 @@
 ]
 #block(inset:0pt, spacing:0pt)[
   #set text(font: "Noto Sans KR", size:11pt)
-  #box[#github_icon #box(inset:(y:2pt))[https://github.com/zlfn/rust-gb : *★* 135]]\
+  #box[#github_icon #box(inset:(y:2pt))[https://github.com/zlfn/rust-gb : *★* 136]]\
     #set text(font: "Noto Sans KR", size:11pt)
   *Rust Weekly*: https://discu.eu/weekly/rust/2024/38/\
 ]
@@ -118,7 +118,7 @@
 ]
 #block(inset:0pt, spacing:0pt)[
   #set text(font: "Noto Sans KR", size:11pt)
-  #box[#github_icon #box(inset:(y:2pt))[https://github.com/Iroom-gbs/GBSWiki : *★* 2]]\
+  #box[#github_icon #box(inset:(y:2pt))[https://github.com/iroom-gbs/GBSWiki : *★* 2]]\
     #set text(font: "Noto Sans KR", size:11pt)
   *Website*: https://gbs.wiki\
 ]
