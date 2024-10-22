@@ -1,6 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
-<img align="right" width=55% src="https://github-readme-stats.vercel.app/api?username=zlfn&theme=dracula&layout=compact&langs_count=10&show_icons=true&show=prs_merged,prs_merged_percentage"/>
+<img align="right" width=55% src="https://github-readme-stats.vercel.app/api?username=zlfn&theme=dracula&layout=compact&langs_count=10&show_icons=true&show=prs_merged,prs_merged_percentage&rank_icon=github"/>
 
 
 <div align="center">
