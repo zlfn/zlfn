@@ -34,8 +34,8 @@
 
 #set text(font:"Wavve PADO TTF", size:15pt)
 == 경력
-#block(height:68pt)[
-  #grid(columns:(20%, 80%),
+#block(height:145pt)[
+  #grid(columns:(25%, 75%),
   stroke: (x,y) => if x == 0{
     (right: (
       paint: luma(180),
@@ -51,14 +51,32 @@
   2024.04 \~ / 프리랜서\
   강남구 대치동, 원격
 ],[
-  #box(inset:(x:7pt, y:0pt))[
+  #box(inset:(x:13pt, y:0pt))[
     #set text(font: "Noto Sans KR", size:12pt)
     *Typescript / Next.js / Apollo GraphQL*]
     #set text(font:"JejuMyeongjo", size:13pt)
-  #box(height:40pt, inset:(x:7pt, y:2pt))[
+  #box(height:55pt, inset:(x:13pt, y:2pt))[
     수학 학원의 문제 데이터베이스 관리, pdf로 문제집 배포, 온라인 문제 은행 등을 제공하는 LMS 서비스 웹 프론트엔드를 개발하고 있습니다.\
   ]
-])
+],
+[
+  #set text(font:"Wavve PADO TTF", size:13pt)
+  블록체인/시스템 개발\
+  #set text(font: "Noto Sans KR", size:12pt)
+  하이퍼리즘\
+  #set text(font: "Noto Sans KR", size:11pt)
+  2024.12 \~ 2025.2 / 인턴\
+  관악구 봉천동, 풀타임
+],[
+  #box(inset:(x:13pt, y:0pt))[
+    #set text(font: "Noto Sans KR", size:12pt)
+    *Rust / Web3 / Solidity / Python / Google Cloud Platform*]
+    #set text(font:"JejuMyeongjo", size:13pt)
+  #box(height:60pt, inset:(x:13pt, y:2pt))[
+    데이터 파이프라인에 신규 블록체인 연동, 사내 백엔드 유지보수 및 일부 재설계, 블록체인 권한 관리 시스템 설계 및 구현, Google Cloud KMS 연동 작업 등을 수행하였습니다.\
+  ]
+],
+)
 ]
 
 == 기술
@@ -88,7 +106,7 @@
 ]
 #block(inset:0pt, spacing:0pt)[
   #set text(font: "Noto Sans KR", size:11pt)
-  #box[#github_icon #box(inset:(y:2pt))[https://github.com/zlfn/rust-gb : *★* 136]]\
+  #box[#github_icon #box(inset:(y:2pt))[https://github.com/zlfn/rust-gb : *★* 135]]\
     #set text(font: "Noto Sans KR", size:11pt)
   *Rust Weekly*: https://discu.eu/weekly/rust/2024/38/\
 ]
@@ -118,7 +136,7 @@
 ]
 #block(inset:0pt, spacing:0pt)[
   #set text(font: "Noto Sans KR", size:11pt)
-  #box[#github_icon #box(inset:(y:2pt))[https://github.com/iroom-gbs/GBSWiki : *★* 2]]\
+  #box[#github_icon #box(inset:(y:2pt))[https://github.com/Iroom-gbs/GBSWiki : *★* 2]]\
     #set text(font: "Noto Sans KR", size:11pt)
   *Website*: https://gbs.wiki\
 ]
@@ -158,18 +176,6 @@
 #block(inset:(x:7pt, y:0pt), above:10pt)[
   #set text(font:"JejuMyeongjo", size:13pt)
   llvm-cbe는 LLVM-IR을 C로 변환하는 백엔드입니다. Rust-GB 프로젝트를 진행하는 과정에서 최신 LLVM-19 지원, 빠진 Intrinsic 구현 등 프로젝트에 필요한 다양한 기여를 하였습니다. 이 과정에서 LLVM의 구조를 이해하고, 마이그레이션 가이드 없이 각 버전간 소스코드만으로 의존성 버전을 마이그레이션하는 방법을 배울 수 있었습니다.
-]
-
-
-=== trilbymedia/grav-plugin-custom-http-headers
-#block(inset:0pt, spacing:0pt)[
-  #set text(font: "Noto Sans KR", size:12pt)
-  *Issue*: https://github.com/trilbymedia/grav-plugin-custom-http-headers/issues/1\
-  *Pull Request*: https://github.com/trilbymedia/grav-plugin-custom-http-headers/pull/4\
-]
-#block(inset:(x:7pt, y:0pt), above:10pt)[
-  #set text(font:"JejuMyeongjo", size:13pt)
-  플러그인 기본 설정에서 X-Frame-Options 헤더를 deny로 설정하여 플러그인이 Grav의 기본 기능과 충돌을 일으키는 문제가 있어, 해당 헤더를 config 파일에서 제외하는 기여를 하였습니다.
 ]
 
 === 현지화 기여
