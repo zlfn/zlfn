@@ -106,7 +106,7 @@
 ]
 #block(inset:0pt, spacing:0pt)[
   #set text(font: "Noto Sans KR", size:11pt)
-  #box[#github_icon #box(inset:(y:2pt))[https://github.com/zlfn/rust-gb : *★* 135]]\
+  #box[#github_icon #box(inset:(y:2pt))[https://github.com/zlfn/rust-gb : *★* 211]]\
     #set text(font: "Noto Sans KR", size:11pt)
   *Rust Weekly*: https://discu.eu/weekly/rust/2024/38/\
 ]
