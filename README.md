@@ -12,7 +12,6 @@
 [[cv.pdf]](https://github.com/zlfn/zlfn/blob/main/cv/cv.pdf)
 [[linkedin]](https://www.linkedin.com/in/pcung/)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzlfn&count_bg=%23363636&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Blog - zlfn.space](https://img.shields.io/static/v1?label=blog&message=zlfn.space&color=%23243378&logo=grav&style=flat-square)](https://zlfn.space)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=zlfn)](https://solved.ac/zlfn)
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/zlfn.svg)](https://codeforces.com/profile/zlfn)
@@ -20,6 +19,7 @@
 <!-- [![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/zzlfnn/competition)](https://www.kaggle.com/zzlfnn) -->
 <!-- <a href="https://www.instagram.com/zlfn1102/"><img src="https://img.shields.io/badge/Instagram-hotpink?style=flat-square&logo=instagram&logoColor=white"/> -->
 <div/>
+<br/>
 <br/>
   
 ---
