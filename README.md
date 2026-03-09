@@ -1,6 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
-<img align="right" width=55% src="https://github-readme-stats.vercel.app/api?username=zlfn&theme=dracula&layout=compact&langs_count=10&show_icons=true&show=prs_merged,prs_merged_percentage&rank_icon=github"/>
+<img align="right" width=55% src="./profile/stats.svg"/>
 
 
 <div align="center">
@@ -23,7 +23,7 @@
 <br/>
   
 ---
-<img align="left" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlfn&layout=compact&theme=dracula&langs_count=18"/>
+<img align="left" width=45% src="./profile/top-langs.svg"/>
 <div align="center">
 
 ### Tech Queue
