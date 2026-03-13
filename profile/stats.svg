@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Kiroo (Chanung)'s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 308, Total Commits  (last year) : 399, Total PRs: 74, Total PRs Merged: 60, Merged PRs Percentage: 81.08, Total Issues: 29, Contributed to (last year): 9</desc>
+        <title id="titleId">Kiroo (Chanung)'s GitHub Stats, Rank: A</title>
+        <desc id="descId">Total Stars Earned: 311, Total Commits  (last year) : 418, Total PRs: 74, Total PRs Merged: 60, Merged PRs Percentage: 81.08, Total Issues: 29, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 63.45788273222347;
+        stroke-dashoffset: 62.624590372914554;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >308</text>
+      >311</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >399</text>
+      >418</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
