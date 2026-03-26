@@ -22,8 +22,6 @@
 
 <!-- [![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/zzlfnn/competition)](https://www.kaggle.com/zzlfnn) -->
 <div/>
-<br/>
-<br/>
   
 ---
 
@@ -66,7 +64,6 @@
 <img src="https://img.shields.io/badge/OpenMP-0e7881?style=flat-square&logo=opentofu&logoColor=white&"/>
 
 </div>
-</br>
 
 ---
 
