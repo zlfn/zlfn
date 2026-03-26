@@ -16,11 +16,10 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=zlfn)](https://solved.ac/zlfn)
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/zlfn.svg)](https://codeforces.com/profile/zlfn)
 [![AtCoder](https://badges.joonhyung.xyz/atcoder/zlfn.svg)](https://atcoder.jp/users/zlfn)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/pcung)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pcung)
 [![Instagram](https://img.shields.io/badge/Instagram-hotpink?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/col_db_ear/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-7304-3197)
 
-<!-- [![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/zzlfnn/competition)](https://www.kaggle.com/zzlfnn) -->
 <div/>
   
 ---
