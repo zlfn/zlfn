@@ -1,6 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
-<img align="right" width=57% src="./profile/stats.svg"/>
+<img align="right" width=55% src="./profile/stats.svg"/>
 
 
 <div align="center">
@@ -8,8 +8,7 @@
 # ZLFN [Kiroo]
 **POSTECH 24'**
 
-이것 저것 함니다.
-
+이것 저것 함니다.  
 [[cv.pdf]](https://github.com/zlfn/zlfn/blob/main/cv/cv.pdf)
 [[linkedin]](https://www.linkedin.com/in/pcung/)
 
@@ -67,7 +66,6 @@
 <img src="https://img.shields.io/badge/OpenMP-0e7881?style=flat-square&logo=opentofu&logoColor=white&"/>
 
 </div>
-</br>
 </br>
 
 ---
