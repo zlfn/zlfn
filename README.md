@@ -1,6 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
-<img align="right" width=55% src="./profile/stats.svg"/>
+<img align="right" width=57% src="./profile/stats.svg"/>
 
 
 <div align="center">
@@ -28,7 +28,7 @@
   
 ---
 
-<img align="left" width=45% src="./profile/top-langs.svg"/>
+<img align="left" width=47% src="./profile/top-langs.svg"/>
 
 <div align="center">
 
