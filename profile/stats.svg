@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Kiroo (Chanung)'s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 303, Total Commits  (last year) : 511, Total PRs: 81, Total PRs Merged: 66, Merged PRs Percentage: 81.48, Total Issues: 32, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 303, Total Commits  (last year) : 521, Total PRs: 81, Total PRs Merged: 66, Merged PRs Percentage: 81.48, Total Issues: 33, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 56.95130626214496;
+        stroke-dashoffset: 56.43771032672576;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >511</text>
+      >521</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -237,7 +237,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >32</text>
+      >33</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
@@ -252,7 +252,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >11</text>
+      >12</text>
     </g>
   </g>
     </svg>
