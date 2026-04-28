@@ -260,7 +260,7 @@
 
             [
         #set text(font: "Noto Sans KR", size: 11pt)
-        #github_icon #box(inset:(y:2pt))[https://github.com/zlfn/torpedo]
+        #github_icon #box(inset:(y:2pt))[https://github.com/zlfn/xylitol]
       ],
   
 
