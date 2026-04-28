@@ -1,7 +1,7 @@
 #set page(margin:(x:30pt, y:25pt))
 
 #let text-style = (font: "Noto Sans KR", size: 11pt)
-#set par(leading: 0.9em)
+#set par(leading: 0.8em)
 
 #set text(font:"Wavve PADO TTF", size:18pt)
 = 박찬웅 | PARK CHANUNG | Kiroo(zlfn)
@@ -19,23 +19,14 @@
 
 #set text(font: "Noto Sans KR", size:11pt)
 #block(spacing:12pt, height:3pt)[#align(horizon)[
-#box[#email_icon *Email* : ung\@zlfn.space]
+#box[#email_icon *Email* : #link("mailto:ung@zlfn.space")[ung\@zlfn.space]]
 #box(width:5pt)
 #box[#phone_icon *Phone* : [redacted]]
 #box(width:5pt)
 #box[#github_icon *GitHub* : https://github.com/zlfn]
-
 ]]
-
 #set text(font: "Noto Sans KR", size:11pt)
 *포항공과대학교* 컴퓨터공학과 2학년 재학: 2024.02 \~ (GPA 3.92/4.3)
-
-#set text(font:"Noto Sans KR", size:11pt)
-#block(height:50pt, inset:0pt)[
-  유연하면서도 신뢰성이 높은 프로그램 개발을 지향하는 학생 개발자입니다. \
-  어려운 설계나 도전적인 문제와 마주하는걸 즐깁니다. \
-  아무도 걸어보지 않은 길을 개척하며 지식을 공유하고 싶습니다.
-]
 
 #align(center)[
   #line(length: 100%, stroke: (thickness: 0.4pt, paint: gray))
@@ -50,6 +41,7 @@
   body: none,
 ) = (
   [
+    #set par(leading: 0.6em)
     #set text(font: "Wavve PADO TTF", size: 12pt)
     #role
     #linebreak()
@@ -87,7 +79,7 @@
   )
 ]
 
-#set text(font:"Wavve PADO TTF", size:15pt)
+#set text(font:"Wavve PADO TTF", size:14pt)
 == 경력
 
 #career-section(
@@ -102,7 +94,9 @@
     ],
   ),
   career-entry(
-    role: [시스템 프로그래머\ 보안 엔지니어],
+    role: [
+      시스템 프로그래머\ 보안 엔지니어
+    ],
     company: [하이퍼리즘 유한책임회사],
     period: [2024.12 \~ 2026.2 / 인턴],
     location: [서울특별시 관악구 봉천동],
@@ -121,75 +115,222 @@
 
 
 == 개인 프로젝트
-#block(inset:(x:0pt, y:3pt))[=== Rust-GB #box[
-  #set text(font: "Noto Sans KR", size:10pt)
-  Rust, Embedded, C\
+#block(inset:(x:0pt, y:3pt))[
+  #grid(
+    columns: (1fr, auto),
+    align: (left + top, right + top),
+    [
+      === Rust-GB #box[
+        #set text(font: "Noto Sans KR", size:10pt)
+        Rust, Embedded, C
+      ]
+      #block(inset:(x: 0pt, y: -6pt), spacing:11pt)[
+        #set text(font: "Noto Sans KR", size:8pt)
+        2024.09 - 진행 중
+      ]
+    ],
+    [
+      #set text(font: "Noto Sans KR", size:11pt)
+      #box[#github_icon #box(inset:(y:2pt))[https://github.com/zlfn/rust-gb : *★* 256]]\
+      *Rust Weekly*: https://discu.eu/weekly/rust/2024/38/
+    ]
+  )
 ]
-#block(inset:0pt, spacing:0pt)[
-  #set text(font: "Noto Sans KR", size:11pt)
-  #box[#github_icon #box(inset:(y:2pt))[https://github.com/zlfn/rust-gb : *★* 256]]\
-    #set text(font: "Noto Sans KR", size:11pt)
-  *Rust Weekly*: https://discu.eu/weekly/rust/2024/38/\
-]
-#block(inset:(x:8pt, y:-3pt))[
+#block(inset:(x:5pt, y:-3pt))[
   #set text(..text-style)
   Rust 코드를 닌텐도 게임보이에 컴파일할 수 있는 컴파일러 툴체인과, API를 제공하는 프로젝트입니다. 게임보이의 CPU 아키텍처인 SM83은 LLVM의 정식 타겟이 아니기 때문에, llvm-cbe와 GBDK를 이용하여 Rust->C->ASM의 과정을 거쳐 코드를 컴파일했고, 복잡한 빌드 체인을 구현하며 각 도구간 버전 호환 등 많은 기술적 난관을 극복하였습니다. \
   게임보이는 현대의 컴퓨터와 다른 특성을 다수 가지고 있기 때문에 게임보이 API를 Rust로 안전하게 디자인하는 것이 주요 과제가 되었고, 이 디자인을 GitHub Discussion을 통해 토론하며 좋은 API 디자인에 대해 고민할 수 있었습니다.
-]]
+]
 
-#block(inset:(x:0pt, y:3pt))[=== LLVM-Z80 #box[
-  #set text(font: "Noto Sans KR", size:10pt)
-  LLVM, Embedded, C++\
+#v(0.3em)
+
+#block(inset:(x:0pt, y:3pt))[
+  #grid(
+    columns: (1fr, auto),
+    align: (left + top, right + top),
+    [
+      === LLVM-Z80 #box[
+        #set text(font: "Noto Sans KR", size:10pt)
+        LLVM, Compiler, Embedded, C++
+      ]
+      #block(inset:(x: 0pt, y: -6pt), spacing:11pt)[
+        #set text(font: "Noto Sans KR", size:8pt)
+        2026.03 - 진행 중
+      ]
+    ],
+    [
+      #set text(font: "Noto Sans KR", size:11pt)
+      #box[#github_icon #box(inset:(y:2pt))[https://github.com/llvm-z80/llvm-z80 : *★* 35]]
+    ]
+  )
+  #block(inset:(x:5pt, y:3pt))[
+    #set text(..text-style)
+    Rust-GB 프로젝트에서 LLVM-CBE를 통해 Rust 코드를 SM83 어셈블리로 우회 컴파일했던 경험을 바탕으로, Z80/SM83을 LLVM의 백엔드 타겟으로 구현하는 프로젝트입니다. GlobalISel 기반 명령어 선택, SDCC 툴체인 상호 운용 등 생태계 및 파생 프로젝트에 필요한 다양한 기능을 제공합니다.\
+    프로젝트를 진행하며 거대한 현대 컴파일러 인프라가 작동하는 방식을 알 수 있었고, 몇 만 줄이 넘는 백엔드 코드를 작성하는 과정에 많은 부분에서 LLM과 코딩 에이전트를 이용하며 대규모 코드베이스를 AI의 도움으로 관리하는 경험과 AI 보조 코딩에 대한 노하우를 쌓을 수 있었습니다.
+  ]
 ]
-#block(inset:0pt, spacing:0pt)[
-  #set text(font: "Noto Sans KR", size:11pt)
-  #box[#github_icon #box(inset:(y:2pt))[https://github.com/llvm-z80/llvm-z80 : *★* 35]]\
+
+#v(0.3em)
+
+#block(inset:(x:0pt, y:3pt))[
+  #grid(
+    columns: (1fr, auto),
+    align: (left + top, right + top),
+    [
+      === GBS.WIKI #box[
+        #set text(font: "Noto Sans KR", size:10pt)
+        CSS, FastAPI, Nginx, SEO, OAuth2
+      ]
+      #block(inset:(x: 0pt, y: -6pt), spacing:11pt)[
+        #set text(font: "Noto Sans KR", size:8pt)
+        2022.03 - 2024.02
+      ]
+    ],
+    [
+      #set text(font: "Noto Sans KR", size:11pt)
+      #box[#github_icon #box(inset:(y:2pt))[https://github.com/Iroom-gbs/GBSWiki : *★* 2]]\
+      *Website*: https://gbs.wiki
+    ]
+  )
+  #block(inset:(x:5pt, y:-3pt))[
+    #set text(..text-style)
+    경기북과학고등학교 교내 위키입니다. 오픈소스 스택을 이용하여 위키를 구성하였으며, OAuth API를 연동/제공하여 교내 인증 인프라를 구축하였습니다. Google Adsence 등 외부 서비스를 가져오는 방법을 배우고, 실제로 유저가 있는 라이브 서비스를 운영하는 경험을 쌓을 수 있었습니다. 또, 고등학교를 졸업할 때 후배들에게 인수인계하며 서비스를 인수인계 하는 체계를 만드는 경험도 할 수 있었습니다.
+  ]
 ]
-#block(inset:(x:8pt, y:-3pt))[
-  #set text(..text-style)
-Rust-GB 프로젝트에서 LLVM-CBE를 통해 Rust 코드를 SM83 어셈블리로 우회 컴파일했던 경험을 바탕으로, Z80/SM83을 LLVM의 백엔드 타겟으로 구현하는 프로젝트입니다. GlobalISel 기반 명령어 선택, SDCC 툴체인 상호 운용 등 생태계 및 파생 프로젝트에 필요한 다양한 기능을 제공합니다.\
-프로젝트를 진행하며 거대한 현대 컴파일러 인프라가 작동하는 방식을 알 수 있었고, 몇 만 줄이 넘는 백엔드 코드를 작성하는 과정에 많은 부분에서 LLM과 코딩 에이전트를 이용하며 대규모 코드베이스를 AI의 도움으로 관리하는 경험과 AI 보조 코딩에 대한 노하우를 쌓을 수 있었습니다.
-]]
 
 #pagebreak()
 
-#block(inset:(x:0pt, y:3pt))[=== Tritone #box[
-  #set text(font: "Noto Sans KR", size:10pt)
-  Kotlin, Rust, Discord\
+#block(inset:(x:0pt, y:3pt))[
+  #grid(
+    columns: (1fr, auto),
+    align: (left + top, right + top),
+    [
+      === Tritone #box[
+        #set text(font: "Noto Sans KR", size:10pt)
+        Kotlin, Rust, Discord API
+      ]
+      #block(inset:(x: 0pt, y: -6pt), spacing:11pt)[
+        #set text(font: "Noto Sans KR", size:8pt)
+        2022.02 - 2022.09
+      ]
+    ],
+    [
+      #set text(font: "Noto Sans KR", size:11pt)
+      #box[#github_icon #box(inset:(y:2pt))[https://github.com/iroom-gbs/tritone : *★* 9]]
+    ]
+  )
+  #block(inset:(x:5pt, y:2pt))[
+    #set text(..text-style)
+    Rust 코드를 Kotlin / Java Native Interface를 통해 마인크래프트에 주입하여 게임에 특정 서버 플러그인에 의존하지 않는 음성 대화 기능을 추가하는 클라이언트 모딩 프로젝트입니다.
+  ]
 ]
-#block(inset:0pt, spacing:0pt)[
-  #set text(font: "Noto Sans KR", size:11pt)
-  #box[#github_icon #box(inset:(y:2pt))[https://github.com/iroom-gbs/tritone : *★* 9]]\
-]
-#block(inset:(x:7pt, y:-7pt))[
-  #set text(..text-style)
-  Rust 코드를 Kotlin / Java Native Interface를 통해 마인크래프트에 주입하여 게임에 특정 서버 플러그인에 의존하지 않는 음성 대화 기능을 추가하는 프로젝트입니다.
-]]
 
-#block(inset:(x:0pt, y:3pt))[=== GBS.WIKI #box[
-  #set text(font: "Noto Sans KR", size:10pt)
-  CSS, FastAPI, Nginx, SEO, OAuth2\
+
+=== 미니 프로젝트
+#block()[
+  #block(inset: (x: 5pt, y: -4pt))[
+    #set text(size: 11pt)
+    #grid(
+      columns: (1fr, auto),
+      align: (left + top, right + top),
+      column-gutter: 8pt,
+      row-gutter: 8pt,
+      
+      [
+        #box()[
+          #set text(font: "Wavve PADO TTF")
+          zlfn.space:
+          #set text(..text-style)
+          Zola를 이용한 개인 블로그입니다. (2026.04)
+        ]
+      ],
+      [
+        #set text(font: "Noto Sans KR", size: 11pt)
+        #github_icon #box(inset:(y:2pt))[https://github.com/zlfn/zlfn-space]
+      ],
+      
+      [
+        #box()[
+          #set text(font: "Wavve PADO TTF")
+          Xylitol:
+          #set text(..text-style)
+          Amber로 작성한 Bash CLI 유틸리티입니다. (2025.11)
+        ]
+      ],
+
+            [
+        #set text(font: "Noto Sans KR", size: 11pt)
+        #github_icon #box(inset:(y:2pt))[https://github.com/zlfn/torpedo]
+      ],
+  
+
+      [
+        #box()[
+          #set text(font: "Wavve PADO TTF")
+          ConvexGL:
+          #set text(..text-style)
+          GPGPU로 3차원 볼록껍질을 구하는 연구입니다. (2023.12)
+        ]
+      ],
+      
+      [
+        #set text(font: "Noto Sans KR", size: 11pt)
+        #github_icon #box(inset:(y:2pt))[https://github.com/zlfn/ConvexGL]
+      ],
+      [
+        #box()[
+          #set text(font: "Wavve PADO TTF")
+          Torpedo:
+          #set text(..text-style)
+          HTML5로 제작한 탄막 슈팅 웹 게임입니다. (2023.07)
+        ]
+      ],
+      [
+        #set text(font: "Noto Sans KR", size: 11pt)
+        #github_icon #box(inset:(y:2pt))[https://github.com/zlfn/torpedo]
+      ],
+  
+
+      [
+        #box()[
+          #set text(font: "Wavve PADO TTF")
+          CIRCUIT:
+          #set text(..text-style)
+          Windows API로 제작한 멀티플레이어 게임입니다. (2022.3)
+        ]
+      ],
+      [
+        #set text(font: "Noto Sans KR", size: 11pt)
+        #github_icon #box(inset:(y:2pt))[https://github.com/zlfn/circuit]
+      ],
+
+      [
+        #box()[
+          #set text(font: "Wavve PADO TTF")
+          EscapeGBS:
+          #set text(..text-style)
+          텍스트 어드벤처 장르의 웹 게임입니다. (2021.10)
+        ]
+      ],
+      [
+        #set text(font: "Noto Sans KR", size: 11pt)
+        #github_icon #box(inset:(y:2pt))[https://github.com/zlfn/escapegbs]
+      ],
+    )
+  ]
 ]
-#block(inset:0pt, spacing:0pt)[
-  #set text(font: "Noto Sans KR", size:11pt)
-  #box[#github_icon #box(inset:(y:2pt))[https://github.com/Iroom-gbs/GBSWiki : *★* 2]]\
-    #set text(font: "Noto Sans KR", size:11pt)
-  *Website*: https://gbs.wiki\
-]
-#block(inset:(x:7pt, y:-3pt))[
-  #set text(..text-style)
-  경기북과학고 교내 위키입니다. Google Adsence 등 외부 서비스를 가져오는 방법을 배우고, OAuth API를 연동/제공하는 경험을 할 수 있었습니다. 고등학교를 졸업할 때 후배들에게 인수인계하며 서비스를 인수인계 하는 체계를 만드는 경험도 할 수 있었습니다.
-]]
 
 #align(center)[
   #line(length: 100%, stroke: (thickness: 0.4pt, paint: gray))
 ]
 
-
 == 과제 프로젝트
-#block(inset:(x:7pt, y:0pt))[
+#block(inset:(x:5pt, y:0pt))[
   #set text(font:"Wavve PADO TTF", size:13pt)
-  CSED451 (컴퓨터 그래픽스)\
+  CSED451 (컴퓨터 그래픽스) #box[
+        #set text(font: "Noto Sans KR", size:10pt)
+        *2025 가을학기*
+      ]\
   #block(inset:0pt, spacing:5pt)[
   #set text(font: "Noto Sans KR", size:11pt)
   #box[#github_icon #box(inset:(y:2pt))[https://github.com/zlfn/cs451-assign]]\
@@ -201,7 +342,10 @@ Rust-GB 프로젝트에서 LLVM-CBE를 통해 Rust 코드를 SM83 어셈블리�
 ]
 #block(inset:(x:7pt, y:0pt))[
   #set text(font:"Wavve PADO TTF", size:13pt)
-  CSED702D (특론: 컴퓨터 시스템 설계)\
+  CSED702D (특론: 컴퓨터 시스템 설계) #box[
+        #set text(font: "Noto Sans KR", size:10pt)
+        *2025 가을학기*
+      ]\
   #block(inset:0pt, spacing:5pt)[
   #set text(font: "Noto Sans KR", size:11pt)
   #box[#github_icon #box(inset:(y:2pt))[https://github.com/zlfn/cs702d-assign]]\
@@ -213,7 +357,10 @@ Rust-GB 프로젝트에서 LLVM-CBE를 통해 Rust 코드를 SM83 어셈블리�
 ]
 #block(inset:(x:7pt, y:0pt))[
   #set text(font:"Wavve PADO TTF", size:13pt)
-  CSED331 (소프트웨어 설계 방법)\
+  CSED331 (소프트웨어 설계 방법) #box[
+        #set text(font: "Noto Sans KR", size:10pt)
+        *2024 가을학기*
+      ]\
   #block(inset:0pt, spacing:5pt)[
   #set text(font: "Noto Sans KR", size:11pt)
   #box[#github_icon #box(inset:(y:2pt))[https://github.com/zlfn/cs332-project]]\
@@ -224,7 +371,7 @@ Rust-GB 프로젝트에서 LLVM-CBE를 통해 Rust 코드를 SM83 어셈블리�
   ]
 ]
 #block()[
-  #set text(font:"Wavve PADO TTF", size:9pt)
+  #set text(font:"Wavve PADO TTF", size:10pt)
 이외 수강 전공 과목 : 데이터 구조, 이산수학, 확률및통계, 알고리즘, 오토마타 및 형식 언어, 디지털시스템설계,
 #text(fill: gray)[소프트웨어 작성 원리, 컴퓨터구조, 통신 및 네트워크 개론, 병렬 및 분산 컴퓨팅 (수강 중)]
 ]
@@ -233,15 +380,14 @@ Rust-GB 프로젝트에서 LLVM-CBE를 통해 Rust 코드를 SM83 어셈블리�
   #line(length: 100%, stroke: (thickness: 0.4pt, paint: gray))
 ]
 
-
 === 오픈소스 / 현지화 기여
-#block(inset:(x:7pt, y:-4pt))[
+#block(inset:(x:5pt, y:-4pt))[
   #set text(font:"Wavve PADO TTF", size:12pt)
   오픈소스 기여: 
   #set text(..text-style)
-  Rust, ccxt, LLVM, llvm-cbe, Zola, Amber, wasmtime 등 다양한 오픈소스 레포지토리에 버그 수정 / 문서화 / 이슈 제기 등 기여를 하였습니다.
+  Rust, ccxt, LLVM, llvm-cbe, Zola, Amber, wasmtime 등 다양한 오픈소스 레포지토리에 기능 추가 / 버그 수정 / 문서화 / 이슈 제기 등 기여를 하였습니다.
 ]
-#block(inset:(x:7pt, y:0pt))[
+#block(inset:(x:5pt, y:0pt))[
   #set text(font:"Wavve PADO TTF", size:12pt)
   현지화 기여: 
   #set text(..text-style)
@@ -249,3 +395,10 @@ Rust-GB 프로젝트에서 LLVM-CBE를 통해 Rust 코드를 SM83 어셈블리�
   #set text(font:"Wavve PADO TTF", size:10pt)
   이외에도 Grav, Optimus Manager QT 등 다양한 오픈소스/상용 소프트웨어에 번역 기여를 하였습니다.
 ]
+
+#align(center)[
+  #line(length: 100%, stroke: (thickness: 0.4pt, paint: gray))
+]
+
+#set text(font:"Wavve PADO TTF", size:11pt)
+기타 : JLPT N2, 운전 면허 1종 보통
