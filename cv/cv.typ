@@ -21,8 +21,6 @@
 #block(spacing:12pt, height:3pt)[#align(horizon)[
 #box[#email_icon *Email* : #link("mailto:ung@zlfn.space")[ung\@zlfn.space]]
 #box(width:5pt)
-#box[#phone_icon *Phone* : [redacted]]
-#box(width:5pt)
 #box[#github_icon *GitHub* : https://github.com/zlfn]
 ]]
 #set text(font: "Noto Sans KR", size:11pt)
