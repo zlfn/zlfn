@@ -1,7 +1,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
 <picture>
-  <source media="(max-width: 1150px)" srcset="./profile/blank.svg">
+  <source media="(max-width: 1250px)" srcset="./profile/blank.svg">
   <img align="right" src="./profile/stats.svg" alt="GitHub stats"/>
 </picture>
 <div align="center">
@@ -27,7 +27,7 @@
 
 <!-- <img align="left" width=400px src="./profile/top-langs.svg"/>  -->
 <picture>
-  <source media="(max-width: 1150px)" srcset="./profile/blank.svg">
+  <source media="(max-width: 1250px)" srcset="./profile/blank.svg">
   <img align="left" src="./profile/top-langs.svg" alt="Most Used Languages"/>
 </picture>
 <div align="center">
