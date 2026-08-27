@@ -25,11 +25,11 @@
   
 ---
 
-<img align="left" width=47% src="./profile/top-langs.svg"/> 
-<!-- <picture>
-  <source media="(max-width: 600px)" srcset="./profile/blank.svg">
+<!-- <img align="left" width=400px src="./profile/top-langs.svg"/>  -->
+<picture>
+  <source media="(max-width: 1200px)" srcset="./profile/blank.svg">
   <img align="left" src="./profile/top-langs.svg" alt="Most Used Languages"/>
-</picture> -->
+</picture>
 <div align="center">
 
 ### Skills
