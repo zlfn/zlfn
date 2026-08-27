@@ -1,5 +1,3 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-
 <picture>
   <source media="(max-width: 1250px)" srcset="./profile/blank.svg">
   <img align="right" src="./profile/stats.svg" alt="GitHub stats"/>
