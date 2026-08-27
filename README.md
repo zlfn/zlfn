@@ -25,7 +25,6 @@
   
 ---
 
-<!-- <img align="left" width=400px src="./profile/top-langs.svg"/>  -->
 <picture>
   <source media="(max-width: 1250px)" srcset="./profile/blank.svg">
   <img align="left" src="./profile/top-langs.svg" alt="Most Used Languages"/>
