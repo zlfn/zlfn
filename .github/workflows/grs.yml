@@ -26,7 +26,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=dracula&langs_count=18
           path: profile/top-langs.svg
-          token: ${{ secrets.STATS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit cards
         run: |
           git config user.name "github-actions"
