@@ -1,8 +1,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
-<img align="right" width=55% src="./profile/stats.svg"/>
-
-
+<picture>
+  <source media="(max-width: 1200px)" srcset="./profile/blank.svg">
+  <img align="right" src="./profile/stats.svg" alt="GitHub stats"/>
+</picture>
 <div align="center">
   
 # ZLFN [Kiroo]
@@ -24,8 +25,11 @@
   
 ---
 
-<img align="left" width=47% src="./profile/top-langs.svg"/>
-
+<img align="left" width=47% src="./profile/top-langs.svg"/> 
+<!-- <picture>
+  <source media="(max-width: 600px)" srcset="./profile/blank.svg">
+  <img align="left" src="./profile/top-langs.svg" alt="Most Used Languages"/>
+</picture> -->
 <div align="center">
 
 ### Skills
