@@ -27,9 +27,9 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&theme=dracula&langs_count=18
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Scale top-langs card (300x315 -> 410x430.5, keeps aspect)
+      - name: Scale top-langs card (300x315 -> 400x420, keeps aspect)
         run: |
-          sed -i 's/width="300"/width="410"/; s/height="315"/height="430.5"/' profile/top-langs.svg
+          sed -i 's/width="300"/width="400"/; s/height="315"/height="420"/' profile/top-langs.svg
       - name: Commit cards
         run: |
           git config user.name "github-actions"
