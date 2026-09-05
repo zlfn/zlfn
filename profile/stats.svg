@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Kiroo (Chanung)&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 398, Total Commits  (last year) : 3546, Total PRs: 101, Total PRs Merged: 81, Merged PRs Percentage: 80.20, Total Issues: 37, Contributed to (last year): 14</desc>
+        <desc id="descId">Total Stars Earned: 398, Total Commits  (last year) : 3547, Total PRs: 101, Total PRs Merged: 81, Merged PRs Percentage: 80.20, Total Issues: 37, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 38.04917230419047;
+        stroke-dashoffset: 38.030348507060516;
       }
     }
   
@@ -252,7 +252,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >14</text>
+      >15</text>
     </g>
   </g>
     </svg>
