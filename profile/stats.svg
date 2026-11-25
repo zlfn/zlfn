@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Kiroo (Chanung)&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 426, Total Commits  (last year) : 1066, Total PRs: 171, Total PRs Merged: 140, Merged PRs Percentage: 81.87, Total Issues: 50, Contributed to (last year): 26</desc>
+        <desc id="descId">Total Stars Earned: 426, Total Commits  (last year) : 1071, Total PRs: 173, Total PRs Merged: 142, Merged PRs Percentage: 82.08, Total Issues: 50, Contributed to (last year): 26</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 24.023341528908105;
+        stroke-dashoffset: 23.832803497000025;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >171</text>
+      >173</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >140</text>
+      >142</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >81.87 %</text>
+      >82.08 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
